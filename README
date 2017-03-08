@@ -1,0 +1,6 @@
+this is a typescript demo
+1 install node 
+2 npm install -g typescript 
+3 create hello.ts
+4 exe tsc hello.ts   this step will conver ts file to js file 
+5 node hello      
